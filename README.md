@@ -1,6 +1,6 @@
-# HR-Analytics-MySQL
-HR Analytics Project using MySQL
-# HR Analytics Project Using MySQL
+# HR-Analytics-SQL
+HR Analytics Project using SQL
+# HR Analytics Project Using SQL
 
 ## Project Overview
 
@@ -19,6 +19,7 @@ This project focuses on analyzing Human Resources (HR) employee data using MySQL
 * **Database:** MySQL
 * **SQL Environment:** MySQL Workbench
 * **Version Control:** GitHub
+* **Dataset:**Excel/CSV
 
 ## Project Workflow
 
